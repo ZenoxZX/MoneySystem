@@ -1,0 +1,13 @@
+{
+  "name": "com.zenoxzx.money-system",
+  "displayName": "Money System",
+  "version": "1.0.0",
+  "unity": "2018.1",
+  "description": "Money System for Hypercasual games.",
+  "author": {
+    "name": "Aygun OZGUR",
+    "email": "aygunozmen@gmail.com",
+    "url": "https://github.com/ZenoxZX/MoneySystem"
+  },
+  "dependencies": {}
+}
